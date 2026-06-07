@@ -38,6 +38,6 @@
     }
   },
   "files": {
-    "includes": ["**", "!node_modules", "!.next", "!coverage"]
+    "includes": ["**", "!node_modules", "!.next", "!.vercel", "!coverage"]
   }
 }
